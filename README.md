@@ -1,13 +1,11 @@
 # 🚀 DevOps Engineer | Cloud & Full-Stack Enthusiast
 
-![DevOps Engineer](https://your-image-link.com)
-
 ## About Me
 Hi there! I'm a **DevOps Engineer** with expertise in cloud infrastructure, CI/CD, and full-stack development. I have **10 years of experience** in designing, deploying, and managing scalable applications. My tech stack includes:
 
 ### 🛠️ Tech Stack
 
-- **Cloud & DevOps**: ![AWS](https://your-aws-logo.com) AWS, ![Jenkins](https://your-jenkins-logo.com) Jenkins, ![Docker](https://your-docker-logo.com) Docker, ![Kubernetes](https://your-kubernetes-logo.com) Kubernetes, Git
+- **Cloud & DevOps**: AWS, Jenkins, Docker, Kubernetes, Git
 - **Backend Development**: .NET, Web API, SQL Server
 - **Frontend Development**: React.js
 
@@ -23,19 +21,14 @@ Here are some of my recent articles:
 )
 
 
-Check out more articles on **[Medium](https://medium.com/@devopsdiariesinfo)** and **[My Website](https://devops-diaries.beehiiv.com/)**!
+Check out more articles on **[Medium](https://medium.com/@devopsdiariesinfo)** and **[DevOps Diaries](https://devops-diaries.beehiiv.com/)**!
 
 ## 🌍 Where to Find Me
-- **📚 Medium Blogs**: (https://medium.com/@devopsdiariesinfo)
-- **🌐 Technical Website**: (https://devops-diaries.beehiiv.com/)
 - **💼 LinkedIn**: (https://www.linkedin.com/in/avinash-tietler/)
 - **🔧 GitHub**: (https://github.com/AvinashTietler)
-
+- **📩 Email** :  (avinashtietler@gmail.com )
 ## 📫 Get in Touch
 Have a project in mind or want to collaborate? Feel free to connect with me!
-
-📩 Email: avinashtietler@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/avinash-tietler/
 
 ---
 
