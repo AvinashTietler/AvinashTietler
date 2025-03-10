@@ -15,7 +15,7 @@ I am passionate about **automation, infrastructure as code, and cloud-native tec
 I write daily about **DevOps practices, cloud solutions, and troubleshooting guides**. 
 Here are some of my recent articles:
 
-📝 [Understanding Kubernetes Troubleshooting](https://devops-diaries.beehiiv.com/p/comprehensive-list-of-k8s-ecosystem-error)
+📝 [Troubleshooting in Kubernetes ](https://devops-diaries.beehiiv.com/p/comprehensive-list-of-k8s-ecosystem-error)
 
 📝 [Troubleshooting in Linux](https://medium.com/@devopsdiariesinfo/day-14-troubleshooting-in-linux-c2169f25ea96
 )
