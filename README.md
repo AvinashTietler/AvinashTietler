@@ -17,8 +17,15 @@ Here are some of my recent articles:
 
 📝 [Troubleshooting in Kubernetes ](https://devops-diaries.beehiiv.com/p/comprehensive-list-of-k8s-ecosystem-error)
 
-📝 [Troubleshooting in Linux](https://medium.com/@devopsdiariesinfo/day-14-troubleshooting-in-linux-c2169f25ea96
-)
+📝 [Troubleshooting in Linux](https://medium.com/@devopsdiariesinfo/day-14-troubleshooting-in-linux-c2169f25ea96)
+
+📝 [Learn - Linux in 2 Weeks](https://devops-diaries.beehiiv.com/p/learn-linux-in-2-weeks)
+
+📝 [Learn - Shell Scripting in 2 Weeks](https://devops-diaries.beehiiv.com/p/new-post)
+
+📝 [Learn - AWS in 4 Weeks](https://www.linkedin.com/pulse/4-week-aws-devops-learning-plan-avinash-tietler-ccj2c?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3B%2BAp8MKCfQA6SQ32skhNTwg%3D%3D)
+
+📝 [Learn - Terraform in 2 Weeks](https://www.linkedin.com/pulse/2-weeks-learning-plan-terraform-avinash-tietler-w3jdc?lipi=urn%3Ali%3Apage%3Ad_flagship3_series_entity%3B%2BAp8MKCfQA6SQ32skhNTwg%3D%3D)
 
 
 Check out more articles on **[Medium](https://medium.com/@devopsdiariesinfo)** and **[DevOps Diaries](https://devops-diaries.beehiiv.com/)**!
